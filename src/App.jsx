@@ -66,7 +66,7 @@ function App() {
             <br />
             <button
               type="submit"
-              className="bg-blue-600 w-full rounded-lg h-12"
+              className="bg-blue-600 w-full rounded-lg h-12 text-white "
             >
               Convert {from} To {to}
             </button>
