@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Currency_converter/',
+  base: '/Ash_Currency_converter/',
   plugins: [react()],
 })
